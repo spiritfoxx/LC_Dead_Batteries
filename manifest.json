@@ -1,0 +1,9 @@
+{
+  "name": "DeadBatteries",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Aww, did the company forget to charge your flashlight?",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
